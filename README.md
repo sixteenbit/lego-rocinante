@@ -4,8 +4,8 @@ Full credit for the design goes to [Maverick9154](https://www.reddit.com/r/TheEx
  
 ## Screenshots
 
-![Front View][screenshots/front-view.png]
+![Front View](screenshots/front-view.png)
 
-![Side View][screenshots/side-view.png]
+![Side View](screenshots/side-view.png)
 
-![Top View][screenshots/top-view.png]
+![Top View](screenshots/top-view.png)
